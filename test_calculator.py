@@ -1,5 +1,5 @@
 
-from calculator import add, subtract, multiply, divide
+from calculator import add, subtract, multiply, divide, power
 
 def test_add():
     assert add(10, 5) == 15
@@ -12,3 +12,6 @@ def test_multiply():
 
 def test_divide():
     assert divide(10, 5) == 2
+
+def test_power():
+    assert power(2, 3) == 8

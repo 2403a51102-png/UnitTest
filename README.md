@@ -1,7 +1,8 @@
 # UnitTest
 
 Python unit testing using pytest and GitHub Actions. This repository contains a
-small Python calculator project with automated tests.
+small Python calculator project with addition, subtraction, multiplication,
+division, and exponentiation, covered by automated tests.
 
 ## Requirements
 
