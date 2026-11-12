@@ -1,6 +1,7 @@
 # UnitTest
 
-A small Python calculator project with automated tests using pytest.
+Python unit testing using pytest and GitHub Actions. This repository contains a
+small Python calculator project with automated tests.
 
 ## Requirements
 
